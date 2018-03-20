@@ -7,7 +7,6 @@
   "main": "src/index.js",
   "dependencies": {
     "particles.js": "2.0.0",
-    "radium": "0.22.0",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-particles-js": "2.1.0",
