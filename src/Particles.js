@@ -12,8 +12,8 @@ class Canvas extends Component {
   }
   updateWindowDimensions = () => {
     this.setState({
-      width: `${window.innerWidth}px`,
-      height: `${window.innerHeight}px`,
+      width: `${window.innerWidth - 5}px`,
+      height: `${window.innerHeight - 5}px`,
     });
   };
   render() {

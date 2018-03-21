@@ -12,6 +12,9 @@
     "react-particles-js": "2.1.0",
     "react-scripts": "1.1.0"
   },
+  "now": {
+    "alias": "background-particles"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
