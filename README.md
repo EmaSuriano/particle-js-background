@@ -2,6 +2,8 @@
 
 > ParticleJS Background ready to use and can be customizable via the parameters inside the url.
 
+![Example of configuration](/docs/example.gif)
+
 ## Context
 
 I like to use particle-js as a background for my project and I always have to installed the dependency and customize it, which takes me a few minutes to accomplish. So I decided to deploy this simple app which would be always accesible to anyone and also can change the way the particles work and see!
